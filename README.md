@@ -9,8 +9,10 @@
 ![S__2048023_0](https://github.com/user-attachments/assets/38ac85d2-4b34-49c7-a92e-8df05e8bb76c)
 
 ![S__2048006_0](https://github.com/user-attachments/assets/5b4119b7-8390-419f-b9ba-92e3ad9b924f)
+
 打印了手臂、填充馬達，參考檔案為13年前的專案，改動其選用的無人機馬達，選用便宜馬達作為捲線器
 選擇馬達為MW996馬達搭配pca16路驅動版去做驅動
+
 ![S__2048007_0](https://github.com/user-attachments/assets/b9919a82-2b0e-4e65-a34d-44e8c5ded61a)
 ![S__2048008_0](https://github.com/user-attachments/assets/27a7fecc-7a3d-4ccb-bbca-d008f449b8ea)
 ![S__2048013_0](https://github.com/user-attachments/assets/2533fe1b-75fb-4db9-8439-9afea0afd864)
@@ -38,12 +40,26 @@ https://github.com/user-attachments/assets/b2657f96-c7da-4dd3-86bd-5c959d0d9f6a
 
 ![S__2097183](https://github.com/user-attachments/assets/abd922b5-ecd4-46ac-abae-922a6ebde455)
 
+![S__2195458](https://github.com/user-attachments/assets/e6926184-4708-4bbc-89f8-4e57a391283d)
+
+
 找到近期的開源專案可以參考其肩膀與手軸的設計添加進入我的機器人
 參考的是
 https://red-rabbit-robotics.ghost.io/
 
+https://red-rabbit-robotics.ghost.io/rx1-humanoid-servo-assembly-instruction/
 
+選擇其設計的減速輪和ht3215馬達作為我的肩膀和手軸的選擇
+但具體設計調整等馬達到貨後嘗試
+
+![image](https://github.com/user-attachments/assets/85165f05-5d89-462f-9893-51e4967b61b3)
+
+參考該專案的身體
 訂購機器人鋁材做為身體骨架
+
+4/18
+目前打印頭蓋骨1/2，預計下周完成頭部外殼，打印脖子測試其轉頭是否可以運作，以及預計使用羅技相機作為眼睛
+
 
 
 
